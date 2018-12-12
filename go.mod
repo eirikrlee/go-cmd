@@ -1,1 +1,1 @@
-module github.com/eirikrl/go-cmd
+module github.com/eirikrlee/go-cmd
